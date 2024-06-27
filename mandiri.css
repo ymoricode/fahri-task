@@ -1,0 +1,39 @@
+body {
+  background: url(https://images3.alphacoders.com/114/thumb-1920-1149777.jpg);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.heading {
+  color: white;
+  font-size: 2em;
+  margin-bottom: 20px;
+  background: url(https://png.pngtree.com/thumb_back/fh260/background/20201215/pngtree-red-and-blue-gradient-low-poly-light-effect-background-image_509029.jpg);
+}
+
+.btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  color: #fff;
+  background-color: #007bff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  background: url(https://png.pngtree.com/thumb_back/fh260/background/20201215/pngtree-red-and-blue-gradient-low-poly-light-effect-background-image_509029.jpg);
+}
+
+.btn:hover {
+  background: linear-gradient(rgb(75, 75, 75), black);
+}

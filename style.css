@@ -1,0 +1,71 @@
+body {
+  background: url(https://www.hdwallpapers.in/download/yoru_riffle_red_black_background_hd_valorant-HD.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: "Arial", sans-serif;
+  background-color: #f0f0f0;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  padding: 20px;
+}
+
+.profile-data {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-name {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.profile-name2,
+.profile-name3 {
+  font-size: 1.5rem;
+  margin: 5px 0;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  border: 3px solid #ffffff;
+  margin: 20px 0;
+}
+
+.social-icons {
+  margin: 20px 0;
+}
+
+.link {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 2px solid #646363;
+  border-radius: 25px;
+  text-decoration: none;
+  color: #000000;
+  transition: all 0.3s ease;
+}
+
+.link:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.bottom-text {
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #fffafa;
+}
+
+.sun-moon-toggle {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
